@@ -8,10 +8,9 @@ Classi:
  
 ------------------------------------------
 COMPITO 1:
-1. L'utente chiede le azioni alla borsa;
-2. La borsa chiede alla banca di finalizzare la spesa. 
-3. Se ci sono abbastanza soldi vengono scalati dal conto dell'utente, altrimenti viene interrotta l'operazione;
-4. Vengono inviate le azioni sul conto dell'utente.
+1. L'utente chiede alla borsa di mettere in vendita le azioni;
+2. La borsa le mette sul mercato;
+3. Se c'è una richiesta e va tutto a buon fine, vengono aggiunti i soldi sul conti dell'utente.
 
 ------------------------------------------
 COMPITO 2:
