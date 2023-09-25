@@ -14,7 +14,7 @@ COMPITO 1:
 
 ------------------------------------------
 COMPITO 2:
-1. Grafico uml - rappresenta le classi che utilizzeremo, e i loro metodi e attributi.
+1. Diagramma delle classi - rappresenta le classi che utilizzeremo, e i loro metodi e attributi.
 ![Alt text](./immagini/image-2.png)
 2. Casi d'uso - nella seguente immagine viene riportato come il sistema interagisce con gli actors, tralasciando i dettagli di come vengono implementate le funzioni.
 ![Alt text](./immagini/image.png)
